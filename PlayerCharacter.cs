@@ -24,6 +24,6 @@ namespace BrandonClassProject
         public int PlayerIntellegience { get; set; }
         public int PlayerCharisma { get; set; }
 
-
+        public PlayerCharacter();
     }
 }
