@@ -6,8 +6,9 @@ namespace BrandonClassProject
 {
     class Equipment
     {
-        public string Name { get; set; }
+        public string EquipName { get; set; }
         public EquipmentType eType { get; set; }
+        public int EquipLevel { get; set; }
     }
 
 
